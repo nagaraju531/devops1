@@ -31,7 +31,6 @@ public class EnhancedFor
 	// pre: list != null
 	// post: return sum of elements
 	// use traditional for loop
-		// Adding new line
 	public static int sumListOld(int[] list)
 	{	int total = 0;
 		for(int i = 0; i < list.length; i++)
